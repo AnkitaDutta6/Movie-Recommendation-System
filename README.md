@@ -12,7 +12,11 @@ This project builds a **hybrid movie recommender** that combines **content-based
 * **Modular Code**: Separated logic for clarity and reuse
 
 ---
+ ## App Preview
+ 
 
+
+ 
 ## 📊 Optional Statistical Analysis
 
 Included in `movie_stats_analysis.py`:
